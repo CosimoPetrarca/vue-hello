@@ -1,0 +1,5 @@
+createApp({
+    data() {
+      
+    }
+  }).mount('#app')
